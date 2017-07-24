@@ -15,6 +15,10 @@
                   "http://realmoney.thestreet.com/*",
                   "http://www.washingtonpost.com/*",
                   "http://www.wsj.com/*",
+                  "http://wyborcza.biz/*",
+                  "http://wyborcza.pl/*",
+                  "http://trojmiasto.wyborcza.pl/*",
+                  "http://www.wysokieobcasy.pl/*",
                   "https://www.barrons.com/*",
                   "https://online.barrons.com/*",
                   "https://www.economist.com/*",
@@ -26,7 +30,11 @@
                   "https://www.nytimes.com/*",
                   "https://realmoney.thestreet.com/*",
                   "https://www.washingtonpost.com/*",
-                  "https://www.wsj.com/*"
+                  "https://www.wsj.com/*",
+                  "https://wyborcza.biz/*",
+                  "https://wyborcza.pl/*",
+                  "https://trojmiasto.wyborcza.pl/*",
+                  "https://www.wysokieobcasy.pl/*"
                   ],
   "background": {
     "scripts": ["background.js"]
