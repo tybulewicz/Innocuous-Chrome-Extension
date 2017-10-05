@@ -17,8 +17,10 @@
                   "http://www.wsj.com/*",
                   "http://wyborcza.biz/*",
                   "http://wyborcza.pl/*",
+                  "http://opole.wyborcza.pl/*",
                   "http://trojmiasto.wyborcza.pl/*",
                   "http://warszawa.wyborcza.pl/",
+                  "http://wroclaw.wyborcza.pl/",
                   "http://www.wysokieobcasy.pl/*",
                   "https://www.barrons.com/*",
                   "https://online.barrons.com/*",
@@ -34,8 +36,10 @@
                   "https://www.wsj.com/*",
                   "https://wyborcza.biz/*",
                   "https://wyborcza.pl/*",
+                  "https://opole.wyborcza.pl/*",
                   "https://trojmiasto.wyborcza.pl/*",
                   "https://warszawa.wyborcza.pl/",
+                  "https://wroclaw.wyborcza.pl/",
                   "https://www.wysokieobcasy.pl/*"
                   ],
   "background": {
